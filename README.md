@@ -8,3 +8,7 @@ Deployed via vercel: https://www.ilayda.com
 yarn install
 yarn dev
 ```
+
+## Fast commit
+
+alias gitilayda="git commit -am "Updated site" && git push origin main"
