@@ -5,7 +5,8 @@ const data = {
   title: "Coming Soon",
   description: "Website under construction",
   newsletterheading: "Stay tuned for our live updates!",
-  copyrightText: "Copyright © 2023 | Design and Developed By Ilayda Buyukdogan",
+  copyrightText:
+    "Copyright © 2023 | Designed and Developed by Ilayda Buyukdogan",
   socialIconsHeading: "Follow Me 📣",
   socialIcons: [
     {

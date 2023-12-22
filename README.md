@@ -11,4 +11,4 @@ yarn dev
 
 ## Fast commit
 
-alias gitilayda="git commit -am "Updated site" && git push origin main"
+alias gitilayda='git commit -am "Updated site" && git push origin main'
